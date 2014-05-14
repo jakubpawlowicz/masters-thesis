@@ -5,4 +5,4 @@ in Lennard-Jones potential.
 
 So far it's only in Polish, but a translated version will follow.
 
-Due to legal reasons I can't attach all the code I wrote. :-/
+Parts of my thesis were also included in a [publication](http://www.actaphys.uj.edu.pl/_old/vol38/pdf/v38p1727.pdf) (this time in English) by dr Michał Cieśla and prof Lech Longa.
